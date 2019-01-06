@@ -1,0 +1,16 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "\"Todo list made with Jquery, mongodb and express.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey Rivera",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2"
+  }
+}
