@@ -1,4 +1,4 @@
-# TodoListRemake with Node
+# TodoList with Node
 Simple Todo list api, with a react front end.
 
 Hello, if you would like to see this in action clone it.
